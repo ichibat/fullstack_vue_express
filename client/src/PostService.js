@@ -1,5 +1,8 @@
 import axios from "axios";
 
+// url might be changed in the future.
+
+
 const url = "/api/posts/";
 
 class PostService {
