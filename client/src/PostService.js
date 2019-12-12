@@ -1,7 +1,7 @@
 import axios from "axios";
 
 // url might be changed in the future.
-
+// props is in kodomo for oya
 
 const url = "/api/posts/";
 
